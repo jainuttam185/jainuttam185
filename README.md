@@ -1,5 +1,55 @@
 # 💫 About Me:
-👋 Hello! I'm Uttam, a Mechanical Engineering student with a minor in Computer Science from Punjab Engineering College.<br>💻 I have a strong programming foundation with hands-on experience in:<br>Web technologies: React.js, Next.js, HTML, CSS, JavaScript, TypeScript<br>Backend tools: Node.js, Express.js, and Solidity<br>Database management: MongoDB and NFT.Storage<br>Web3/Blockchain tools: Wagmi, Ethers.js, and Hardhat<br>🔧 During my internship at Redbelly Network, I gained practical experience in:<br>Developing a Decentralized Real Estate Marketplace, serving 1L+ users and processing 8K+ transactions monthly 🏠.<br>🚀 Other Projects:<br>ERC20 Token Swap DApp<br>NFT Mint & Burn DApp<br>Trello Board Clone<br>🧠 I'm a quick learner, a problem-solver, and passionate about exploring new technologies.
+👋 **Hello! I'm Uttam** A Mechanical Engineering student with a minor in Computer Science from **Punjab Engineering College**.🧠 I'm a quick learner, a problem-solver, and passionate about exploring new technologies.
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="400" align="right">
+
+### 📘 Academic Courses
+Taken courses in **Algorithms**, **Data Structures**, and **Web Development**, building a solid programming foundation.
+
+### 💻 Hands-on Experience in:
+- **Web technologies**: React.js, Next.js, HTML, CSS, JavaScript, TypeScript
+- **Backend tools**: Node.js, Express.js, and Solidity
+- **Database management**: MongoDB and NFT.Storage
+- **Web3/Blockchain tools**: Wagmi, Ethers.js, and Hardhat
+
+### 🔧 Internship at Redbelly Network
+Gained practical experience in developing a **Decentralized Real Estate Marketplace**, serving **1L+ users** and processing **8K+ transactions monthly** 🏠.
+
+## **Project Descriptions**
+
+### 1. **Decentralized Real Estate Marketplace** 🏠
+A **blockchain-based platform** that tokenizes real estate, allowing users to **buy and sell property fractions**. Serving **1L+ users** and processing **8,000 transactions monthly**.
+
+- **Features**:  
+  - Admins tokenize properties, and users can **trade tokens**, view **property statistics**, and manage **portfolios**.
+  
+- **Tech Stack**:  
+  - Next.js, TypeScript, Solidity, Wagmi, Ether.js, Hardhat, Netlify
+
+---
+
+### 2. **Fullstack ERC20 Token Swap DApp** 🔁
+A **DApp** that allows users to **swap ERC20 tokens** based on a **liquidity pool** using the **constant product formula**.
+
+- **Tech Stack**:  
+  - Next.js, TypeScript, Hardhat, Ethers.js, MetaMask
+
+---
+
+### 3. **Fullstack NFT Marketplace DApp** 🎨
+A **decentralized platform** for **minting**, **buying**, and **selling NFTs** using **ERC721** and **ERC1155** standards.
+
+- **Tech Stack**:  
+  - Solidity, Hardhat, Next.js, TypeScript, Ethers.js, MetaMask
+
+---
+
+### 4. **Trello-Board Clone** 📋
+A **task and project management app** where users can **create workspaces**, manage **tasks**, and securely authenticate with **JWT**.
+
+- **Tech Stack**:  
+  - Node.js, Express.js, MongoDB, Mongoose, JWT
+
 
 
 ## 🌐 Socials:
@@ -13,7 +63,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jainuttam185&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jainuttam185&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=jainuttam185&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jainuttam185&limit=5&theme=dark&combine_all_yearly_contributions=true)
